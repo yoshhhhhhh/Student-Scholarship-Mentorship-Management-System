@@ -1,0 +1,40 @@
+credentials:
+  usernames:
+    jsmith:
+      email: jsmith@gmail.com
+      name: John Smith
+      password: $2b$12$NlFSuHgkwJSIdMv3BnYuKuO25xU92UU/UhFFYovuxUGjPWNIMmKZu #abc To be replaced with hashed password
+      user_type: Student
+
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: $2b$12$LE0GvxsjEg3raJWQC3.fwOxSfAFZ/qDHBPsQFVkyNjH2JcHVR/dRO #def # To be replaced with hashed password
+      user_type: Faculty
+    admin:
+      email: admin@gmail.com
+      name: ad
+      password: $2b$12$boe7Ma1OnOs19AvP4dLpB.ZWSLA0WKTB.35XXRTQ7rnSrv3kJ4xXy #ghi
+      user_type: Admin
+    PES2UG21CS001:
+      email: rbriggs@gmail.com
+      name: lalalalala
+      password: $2b$12$LE0GvxsjEg3raJWQC3.fwOxSfAFZ/qDHBPsQFVkyNjH2JcHVR/dRO #def # To be replaced with hashed password
+      user_type: Student
+    PES2ST001:
+      email: rbriggs@gmail.com
+      name: Nivedita
+      password: $2b$12$LE0GvxsjEg3raJWQC3.fwOxSfAFZ/qDHBPsQFVkyNjH2JcHVR/dRO #def # To be replaced with hashed password
+      user_type: Faculty
+    PES2ST002:
+      email: rbriggs@gmail.com
+      name: Sheela
+      password: $2b$12$LE0GvxsjEg3raJWQC3.fwOxSfAFZ/qDHBPsQFVkyNjH2JcHVR/dRO #def # To be replaced with hashed password
+      user_type: Faculty
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
