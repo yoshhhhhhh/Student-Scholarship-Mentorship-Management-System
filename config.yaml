@@ -23,12 +23,12 @@ credentials:
       user_type: Student
     PES2ST001:
       email: rbriggs@gmail.com
-      name: Nivedita
+      name: fghfg
       password: $2b$12$LE0GvxsjEg3raJWQC3.fwOxSfAFZ/qDHBPsQFVkyNjH2JcHVR/dRO #def # To be replaced with hashed password
       user_type: Faculty
     PES2ST002:
       email: rbriggs@gmail.com
-      name: Sheela
+      name: gfff
       password: $2b$12$LE0GvxsjEg3raJWQC3.fwOxSfAFZ/qDHBPsQFVkyNjH2JcHVR/dRO #def # To be replaced with hashed password
       user_type: Faculty
 cookie:
